@@ -5,8 +5,7 @@
 In this project, I outline a strategy for building a competitive restaurant in New York City. In this case, I define a competitive restaurant in NYC by Yelp star rating. According to Yelp, the average restaurant earns a rating of 4.0, which means in order to be competitive you must have 4.5 or above out go five. I build a model that predicts with .78 accuracy and .605 precision that a restaurant will have a 4.5 rating or above. Based on the results of that model I’ve developed a strategy for success in NYC.
 
 ## Navigating the Repo
-In the list of files below, choose the folder  ‘Mod3-Restaurant Project’
-| Mod3-Restaurant Project    | File Description              |
+| Directory/File    | File Description              |
 |:---------------------------|:------------------------------|
 | /data                      |  a folder containing various CSV data files used in this project |
 | /images.                   | a folder containing various images used in this project          |
