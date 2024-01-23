@@ -53,7 +53,7 @@ Based on the model and the EDA, I can make the following recommendations:
 
 ### Concept
 The most important features the model identified were related to the restaurant categories. It seems bakeries,  Japanese restaurants, and Caribbean restaurants are high on the list. In addition, traditional American, diner, and breakfast places are also well represented. We also see that gluten-free appears among the top 15 features indicating that restaurants with more gluten-free items of any concept perform well. The presence of reservations on this list indicates that the sit-down concepts are more likely to have a high rating.       
-![restaurants by category](https://github.com/christine-egan42/restaurant-location-analysis/tree/main/imagesrestaurant_by_category.png)
+![restaurants by category](https://github.com/christine-egan42/restaurant-location-analysis/tree/main/images/restaurant_by_category.png)
 ![restaurants by category](https://github.com/christine-egan42/restaurant-location-analysis/tree/main/images/top10.png)
 
 ### Location
